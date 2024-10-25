@@ -143,9 +143,34 @@ The Fandev Theme Core includes full support for WooCommerce, including:
 
 The Fandev Theme Core is developed and maintained by **iBoss**. iBoss is a highly innovative, ambitious, and detail-oriented developer who strives for excellence in all projects. Known for pushing boundaries and delivering superior solutions, iBoss has built the Fandev Theme Core to be an industry-leading theme framework. The theme is designed to go beyond standard expectations, offering flexibility, performance, and developer-friendly features.
 
-### Follow iBoss:
-- GitHub: [iBoss GitHub Profile](https://github.com/iboss21)
-- Website: [iBoss Developer Website](https://davidio.dev)
+## iBoss Projects & Related Ecosystem
+
+The Fandev Theme Core is part of a broader ecosystem of innovative projects developed by **iBoss**, known for creating cutting-edge frameworks and roleplay servers.
+
+### Follow iBoss
+- **GitHub**: [iBoss GitHub Profile](https://github.com/iboss21)
+- **Website**: [iBoss Developer Website](https://davidio.dev)
+- **Company for ordering projects**: LIKE A KING - [www.likeaking.pro](https://www.likeaking.pro)
+- **LinkedIn**: Bossonline
+- **Twitter/X**: [@mylifege](https://twitter.com/mylifege)
+- **Funny Developer Website**: [Fandev](https://fandev.icu)
+
+### LXRCore Framework
+**LXRCore** is a powerful RedM framework developed by iBoss, specifically designed to provide modular, highly flexible, and performance-driven solutions for roleplay servers. The framework is rapidly gaining popularity due to its superior features compared to existing frameworks.
+
+- **LXRCore Official Website**: [LXRCore](https://lxrcore.com)
+- **GitHub Repository**: [LXRCore GitHub](https://github.com/LXRCore)
+
+### The Land of Wolves - RedM Server
+**The Land of Wolves** is an immersive and historically accurate RedM roleplay server set in 19th-century Georgia. It leverages LXRCore to offer an unparalleled roleplaying experience with dynamic community-driven storylines, custom crafting systems, and realistic roleplay.
+
+- **Official Website**: [The Land of Wolves](https://www.thelandofwolves.co)
+
+### The Lux Empire Roleplay - FiveM Server
+**The Lux Empire Roleplay** is an international FiveM server focused on delivering a unique, realistic roleplay experience. With support for multiple languages and a vibrant international community, it is a perfect platform for players to create their stories, syndicates, and families within the game.
+
+- **Official Website**: [The Lux Empire Roleplay](https://www.theluxempire.com)
+- **FiveM Modding Store on Tebex**: [The Lux Empire Tebex Store](https://theluxempire.tebex.io)
 
 ## License
 The Fandev Theme Core is licensed under the MIT License.
