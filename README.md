@@ -144,8 +144,8 @@ The Fandev Theme Core includes full support for WooCommerce, including:
 The Fandev Theme Core is developed and maintained by **iBoss**. iBoss is a highly innovative, ambitious, and detail-oriented developer who strives for excellence in all projects. Known for pushing boundaries and delivering superior solutions, iBoss has built the Fandev Theme Core to be an industry-leading theme framework. The theme is designed to go beyond standard expectations, offering flexibility, performance, and developer-friendly features.
 
 ### Follow iBoss:
-- GitHub: [iBoss GitHub Profile](https://github.com/YourUsername)
-- Website: [iBoss Developer Website](https://yourwebsite.com)
+- GitHub: [iBoss GitHub Profile](https://github.com/iboss21)
+- Website: [iBoss Developer Website](https://davidio.dev)
 
 ## License
 The Fandev Theme Core is licensed under the MIT License.
