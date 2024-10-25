@@ -1,0 +1,16 @@
+/*
+Theme Name: Fandev Theme Core
+Theme URI: https://fandev.icu
+Author: Fandev
+Author URI: https://fandev.icu
+Description: The core WordPress theme framework for the Fandev project.
+Version: 1.0
+Text Domain: fandev-core
+*/
+
+body {
+    font-family: 'Open Sans', sans-serif;
+    color: #333;
+    margin: 0;
+    padding: 0;
+}
