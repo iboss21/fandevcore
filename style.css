@@ -1,16 +1,10 @@
 /*
-Theme Name: Fandev Theme Core
+Theme Name: Fandev Theme Core Professional
 Theme URI: https://fandev.icu
-Author: Fandev
-Author URI: https://fandev.icu
-Description: The core WordPress theme framework for the Fandev project.
+Author: iBoss
+Author URI: https://davidio.dev
+Description: A professional, fully-featured WordPress theme framework with over 100+ features across performance, security, SEO, customization, and WooCommerce.
 Version: 1.0
+License: MIT
 Text Domain: fandev-core
 */
-
-body {
-    font-family: 'Open Sans', sans-serif;
-    color: #333;
-    margin: 0;
-    padding: 0;
-}

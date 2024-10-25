@@ -1,1 +1,20 @@
-/* Add your custom styles here */
+/* Custom styles for the Fandev Theme Core */
+body {
+    font-family: Arial, sans-serif;
+    color: #333;
+    margin: 0;
+    padding: 0;
+}
+
+.header-container {
+    background: #f4f4f4;
+    padding: 20px;
+    text-align: center;
+}
+
+.footer-container {
+    background: #222;
+    color: #fff;
+    text-align: center;
+    padding: 10px;
+}
