@@ -12,6 +12,7 @@
 - [SEO Enhancements](#seo-enhancements)
 - [WooCommerce Support](#woocommerce-support)
 - [Developer-Friendly](#developer-friendly)
+- [Developer Information](#developer-information)
 - [License](#license)
 
 ## Features
@@ -137,6 +138,14 @@ The Fandev Theme Core includes full support for WooCommerce, including:
 - **Hooks and Filters**: The theme is built with developers in mind. You can use the provided hooks and filters to extend or modify the theme without touching the core files.
 - **Modular CSS/JS**: The theme uses a modular approach to CSS and JavaScript, making it easy to customize and extend.
 - **Child Theme Ready**: Easily create a child theme to customize further without breaking future updates.
+
+## Developer Information
+
+The Fandev Theme Core is developed and maintained by **iBoss**. iBoss is a highly innovative, ambitious, and detail-oriented developer who strives for excellence in all projects. Known for pushing boundaries and delivering superior solutions, iBoss has built the Fandev Theme Core to be an industry-leading theme framework. The theme is designed to go beyond standard expectations, offering flexibility, performance, and developer-friendly features.
+
+### Follow iBoss:
+- GitHub: [iBoss GitHub Profile](https://github.com/YourUsername)
+- Website: [iBoss Developer Website](https://yourwebsite.com)
 
 ## License
 The Fandev Theme Core is licensed under the MIT License.
